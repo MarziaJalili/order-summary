@@ -194,11 +194,10 @@ button {
 
 
   .order-card__heading {
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
 
   .order-card__features {
-    font-size: 1.3rem;
     min-width: 100%;
   }
 
